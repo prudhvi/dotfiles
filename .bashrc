@@ -17,5 +17,6 @@ alias gpo="git push origin"
 alias gs="git status"
 alias gd="git diff"
 alias gp="git pull"
+alias gane="git add .;git commit --amend --no-edit"
 alias be="bundle exec"
 alias rake='be rake'
